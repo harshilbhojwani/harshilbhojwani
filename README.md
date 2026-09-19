@@ -3,7 +3,7 @@
 - 🎓 CS student at Amrita University
 - 🔧 Currently learning full-stack development with the **MERN stack**
 - 📚 Practicing DSA in **C++**
-- 🌱 Working toward contributing to open source (GSoC-bound)
+- 🌱 Working toward contributing to open source 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshil-bhojwani)
 
 ### What I'm building
