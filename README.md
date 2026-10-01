@@ -7,5 +7,5 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harshil-bhojwani)
 
 ### What I'm building
-Currently working through a full-stack MERN course — check my pinned repos for projects as I build them!
+Currently working through a full-stack MERN course . Check my pinned repos for projects as I build them!
 
